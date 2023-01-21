@@ -33,11 +33,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O habits é um app para ajudar a ratrear hábitos.
 
-- [Acesse o projeto finalizado, online](https://maykbrito.github.io/devlinks)
+- [Acesse o projeto finalizado, online](https://marcelgava.github.io/nlw-setup-habits/)
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/mwxmebHLjH8ZXIkvuIalZi/Habits-(e)-(Community)?t=vm9c0WtYP04KQY1J-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.figma.com/file/mwxmebHLjH8ZXIkvuIalZi/Habits-(e)-(Community)?t=vm9c0WtYP04KQY1J-0>). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
